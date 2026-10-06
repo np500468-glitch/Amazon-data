@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 This project analyzes an Amazon product dataset using Python. The main objective is to explore, clean, and visualize the data to discover useful insights about products, prices, customer reviews, shipments, and order dates.
+
+
 <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2026/01/AWS-1.png" alt="Project Screenshot" width="700">
 
 ## 🚀 Features
